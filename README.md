@@ -3,4 +3,4 @@
 This button PCB is for the Gameboy Pocket to make a Gameboy Zero or an Arduboy.
 
 ## Updates:
-* **board is not tested but works in theory.**
+* [25.1.2019] **board is not tested but works in theory.**
