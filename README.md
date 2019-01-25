@@ -3,10 +3,7 @@
 This button PCB is for the Gameboy Pocket to make a Gameboy Zero or an Arduboy.
 
 ## Pictures of the pcb
-
-
-
-
+OSHPARK example:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![alt text](https://github.com/DerNuntius/Gameboy-Zero-Pocket-Button-PCB/blob/master/images/top.png "TOPPCB")
 Top of the PCB
 
@@ -14,11 +11,6 @@ Top of the PCB
 Bottom of the PCB
 
 
-
-
-
-## Updates:
-* **[25.1.2019]** board is not tested but works in theory, also the dimensions are correct. Maybe I'll test this board in a few weeks.
 
 ## Contact me
 If you have any questions, improvements or updates about this project feel free to send me an e-mail. The e-mail address is pinned on my profile. 
